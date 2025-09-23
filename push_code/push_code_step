@@ -1,5 +1,5 @@
 git status
 git add .
-git commit -m "Updated palindrome program"
+git commit -m "Updated  program"
 git push origin main
 git push origin main --force

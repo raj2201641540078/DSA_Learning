@@ -36,6 +36,9 @@ int main() {
 
 }
 
+// Time Complexity: O(n log n)
+// spcae Complexity: O(n)
+
 // class Solution {
 //   public:
 //     int thirdLargest(vector<int> &arr) {
@@ -58,3 +61,5 @@ int main() {
 //         return pq.top();
 //     }
 // };
+
+

@@ -35,6 +35,8 @@ using namespace std;
 //  cout<<ans<<endl;
   
 // }
+// Time coplexity =O(n);
+// Space compleity O(1);
 
 int solve(vector<int>arr,int n){
     set<int>st(arr.begin(),arr.end());
